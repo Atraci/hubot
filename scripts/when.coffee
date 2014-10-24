@@ -18,7 +18,7 @@ module.exports = (robot) ->
         tz: 'America/Los_Angeles'
       'agaelx':
         regex: /agaelx|uriel/i
-        tz: 'America/Los_Angeles'
+        tz: 'America/Chihuahua'
 
     matchedUser = null
     for userName, userInfo of users
